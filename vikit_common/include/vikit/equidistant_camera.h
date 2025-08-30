@@ -2,7 +2,7 @@
  * equidistant_camera.h
  *
  *  Created on: January 26, 2023
- *      Author: Chunran Zheng
+ *      Author: xuankuzcr
  */
 
 #ifndef EQUIDISTANT_CAMERA_H_
